@@ -1,6 +1,8 @@
 dcrspy
 ====
 
+[![Join the chat at https://gitter.im/chappjc/dcrspy](https://badges.gitter.im/chappjc/dcrspy.svg)](https://gitter.im/chappjc/dcrspy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **WORK IN PROGRESS**
 
 dcrspy is a program to continuously monitor and log changes in various data
